@@ -1,0 +1,2 @@
+hello 
+adding line inti toto.txt
